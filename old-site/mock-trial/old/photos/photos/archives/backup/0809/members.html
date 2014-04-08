@@ -1,0 +1,105 @@
+<html><html>
+<head>
+<title>University of Chicago Mock Trial</title>
+<link href="home.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript">
+if (document.images)   {
+     image1on = new Image();
+     image1on.src="images/home2.jpg";
+
+     image1off = new Image();
+     image1off.src = "images/home1.jpg";
+
+     image2on = new Image();
+     image2on.src="images/photos2.jpg";
+
+     image2off = new Image();
+     image2off.src = "images/photos1.jpg";
+
+     image3on = new Image();
+     image3on.src="images/members2.jpg";
+
+     image3off = new Image();
+     image3off.src = "images/members1.jpg";
+
+     image4on = new Image();
+     image4on.src="images/history2.jpg";
+
+     image4off = new Image();
+     image4off.src = "images/history1.jpg";
+
+     image5on = new Image();
+     image5on.src="images/schedule2.jpg";
+
+     image5off = new Image();
+     image5off.src = "images/schedule1.jpg";
+
+     image6on = new Image();
+     image6on.src="images/awards2.jpg";
+
+     image6off = new Image();
+     image6off.src = "images/awards1.jpg";
+
+     image7on = new Image();
+     image7on.src="images/teams2.jpg";
+
+     image7off = new Image();
+     image7off.src = "images/teams1.jpg";
+
+     image8on = new Image();
+     image8on.src="images/contact2.jpg";
+
+     image8off = new Image();
+     image8off.src = "images/contact1.jpg";
+
+}
+
+function turnOn(imageName)   {
+     if (document.images)   {
+     document[imageName].src = eval(imageName + "on.src");
+     }
+}
+
+function turnOff(imageName)   {
+     if (document.images)   {
+     document[imageName].src = eval(imageName + "off.src");
+     }
+}
+</script>
+</head>
+<body bgcolor="#E1DFB9">
+<table cellspacing="0" cellpadding="0" align="center">
+<tr><td width="100%" align="center"><img src="images/logo.jpg"></td></tr>
+<tr><td><a href="index.html" onMouseOver="turnOn('image1');" onMouseOut="turnOff('image1');"><img src="images/home1.jpg" border="0" name="image1"></a><a href="pics.html" onMouseOver="turnOn('image2');" onMouseOut="turnOff('image2');"><img src="images/photos1.jpg" border="0" name="image2"></a><a href="members.html" onMouseOver="turnOn('image3');" onMouseOut="turnOff('image3');"><img src="images/members1.jpg" border="0" name="image3"></a><a href="history.html" onMouseOver="turnOn('image4');" onMouseOut="turnOff('image4');"><img src="images/history1.jpg" border="0" name="image4"></a><a href="schedule.html" onMouseOver="turnOn('image5');" onMouseOut="turnOff('image5');"><img src="images/schedule1.jpg" border="0" name="image5"></a><a href="awards.html" onMouseOver="turnOn('image6');" onMouseOut="turnOff('image6');"><img src="images/awards1.jpg" border="0" name="image6"></a><a href="teams.html" onMouseOver="turnOn('image7');" onMouseOut="turnOff('image7');"><img src="images/teams1.jpg" border="0" name="image7"></a><a href="contact.html" onMouseOver="turnOn('image8');" onMouseOut="turnOff('image8');"><img src="images/contact1.jpg" border="0" name="image8"></a></td></tr>
+</tr></table><table cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td width="94"><img src="images/logoside.jpg" height="550" width="94"></td>
+
+<td width="609" valign="top">
+
+<table><tr><td valign="top" width="609">
+<p align="center"><h1 align="center">Get Involved!</h1></p>
+<div class="navbar"></div>
+<p align="left">
+<ul>
+<li>Email <a href="contact.html">someone important</a>
+<li>Go to the <a href="">RSO Fair</a> and sign up for the listhost.
+<li>Come to the fall invitational meeting</li>
+</ul>
+</p>
+
+<h1>Mock Trial Resources</h1>
+<ul>
+<li>Visit the <a href="http://www.collegemocktrial.org" target="collegemocktrial">American Mock Trial Association</a> homepage.</li>
+<li>Download the <a href="archives/obj.zip">objection game</a><a href="#foot">*</a></li>
+<li>Download the <a href="archives/objectionchart.doc">objection chart</a>.</li>
+<li>Visit <a href="http://www.perjuries.com">perjuries</a>, the online forum for mock trial news and discussion.</li>
+</ul> 
+<br><br><a name="foot"><font size="2"><br><br><br><br><br><br><br><br><br><br><br>&nbsp;&nbsp;&nbsp;*Microsoft Windows only</a>, or emulate it on an <a href="http://www.macupdate.com/info.php/id/22636">intel mac</a> or <a href="http://www.winehq.org/">Linux</a>.</font>
+</td></tr></table>
+</td>
+<td width="96"><img src="images/logoside2.jpg" height="550" width="96"></td></tr>
+</td>
+<table align="center" cellpadding="0" cellspacing="0"><TR><TD><img src="images/logobottom.jpg" width="799" height="70"></TD></TR></table>
+</body>
+</html>

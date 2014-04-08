@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<table width=640 border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width=100> <div align="center"><img src="../images/graphics/upperleft.gif" width="100" height="57"></div></td>
+    <td width=540> <div align="center"> 
+        <map name="titlemap">
+          <area coords="250,38,340,53" href="../teamnews.html" shape="RECT">
+          <area coords="348,38,435,53" href="../pressclips.html" shape="RECT">
+          <area coords="447,38,535,53" href="../contactus.html" shape="RECT">
+        </map>
+        <img src="../images/graphics/title.gif" width="540" height="57" usemap=#titlemap border="0"></div></td>
+  </tr>
+  <tr valign="top"> 
+    <td background=../images/graphics/line.gif height="708"> 
+<map name="menumap">
+        <area coords="5,16,82,31" href="../history.html" shape="RECT">
+        <area coords="4,45,85,60" href="../members.html" shape="RECT">
+        <area coords="10,70,80,90" href="../awards.html" shape="RECT">
+        <area coords="3,98,90,115" href="../pictures.html" shape="RECT">
+        <area coords="3,125,90,145" href="../archives.html" shape="RECT">
+        <area coords="1,152,90,189" href="http://www.uchicago.edu/forum/list.php?f=74" shape="RECT" target="new window">
+      </map> <img src="../images/graphics/menu.gif" width="90" height="200" align="left" vspace="0" hspace="0" usemap=#menumap border="0"> 
+    <td height="708"> 
+<div align="center"> 
+        <p>&nbsp;</p>
+        <table border="0" width="450">
+          <tr> 
+            <td height="628"> 
+<p align="left"><b><font face="Arial, Helvetica, sans-serif" size="2">2002-2003 
+                Season</font></b><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                </font></p>
+              <p align="left"><font face="Arial, Helvetica, sans-serif"><b><font size="2">Team 
+                Awards</font></b></font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team 
+                South, 1st Place, Cornshuckers' Challenge, University of Iowa 
+                Invitational</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team 
+                South, 2nd Place, Northwestern Invitational</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team 
+                East, 2nd Place, Joliet Regional</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team 
+                East, Bid to National Championship Tournament</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team 
+                South, 3rd Place, South Bend Regional</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team 
+                South, Bid to National Championship Tournament</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team 
+                West, 5th Place, South Bend Regional</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team 
+                West, Bid to National Championship Tournament</font></p>
+                <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Team South, 3rd Place, National Championship Tournament</font></p>
+              <p align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b>Individual 
+                Awards</b> </font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Sarah 
+                White, Outstanding Witness, Iowa Invitational</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Kevin 
+                Curran, Outstanding Attorney, Northwestern Invitational</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Harry 
+                Schmidt, Outstanding Attorney, Joliet Regional</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Beth 
+                Morrissey, Outstanding Witness, Joliet Regional</font></p>
+              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Tim 
+                Katerberg, Outstanding Witness, South Bend Regional</font></p>
+                <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Melissa Currivan, All-American Witness, National Championship Tournament</font></p>
+              </td>
+          </tr>
+        </table>
+        <p align="left">&nbsp;</p>
+      </div></td>
+  </tr>
+  <tr> 
+    <td height="57" valign="top"><img src="../images/graphics/bottomleft.gif" width="100" height="57" align="top"></td>
+    <td><img src="../images/graphics/bottom.gif" width="540"></td>
+  </tr>
+</table>
+</body>
+</html>

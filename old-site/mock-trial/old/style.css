@@ -1,0 +1,149 @@
+@charset "utf-8";
+
+/*
+Design by www.maak-mijn-website.nl
+http://www.maak-mijn-website.nl
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+#main {
+	background-color: #100f10;
+	margin-right: auto;
+	margin-left: auto;
+}
+body {
+	background-color: #100f10;
+}
+*
+{
+	border: 0;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+a{
+	color: #CC0000;
+	text-decoration:none;
+}
+
+a:hover{
+	color: #CC0000;
+	text-decoration:underline;
+}
+#top_menu {
+	font-family: "Georgia";
+	font-size: 20px;
+	color: #FFFFFF;
+	height: 53px;
+	width: 844px;
+}
+#top_menu ul {
+	margin: 0;
+	list-style: none;
+	padding-left: 0px;
+	padding-top: 5px;
+}
+
+#top_menu li {
+	display: inline;
+}
+#top_menu a{
+	font-family: "Georgia";
+	font-size: 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+	line-height: 1.5;
+	padding-left: 20px;
+}
+#content {
+
+	width: 844px;
+	font-family: "Georgia";
+	font-size: 14px;
+	color:#FFFFFF;
+}
+#content_buttom1 {
+	font-family: "Georgia";
+	font-size: 12px;
+	color: #FFFFFF;
+
+	height: 296px;
+	width: 282px;
+}
+
+.h1 {
+	font-family:"Georgia";
+	font-size:30px;
+	color:#FFFFFF;
+	padding-top: 15px;
+}
+
+#top_menu a:hover{
+	font-family: "Georgia";
+	font-size: 20px;
+	color: #900;
+		text-decoration:none;
+}
+.read_more {
+	background: url(images/read_more.png);
+	background-position:center;
+	padding-top:20px;
+	width: 99px;
+	height:33px;
+	text-align: center;
+	background-repeat: no-repeat;
+	font-size: 14px;
+}
+.read_more a{
+	font-family:"Georgia";
+	font-size: 14px;
+	color:#FFFFFF;
+	text-decoration: none;
+	line-height: 0.8;
+	text-align: center;
+}
+#content_buttom2 {
+	font-family: "Georgia";
+	font-size: 12px;
+	color: #FFFFFF;
+
+	height: 296px;
+	width: 281px;
+}
+.content_buttom{
+	font-family: "Georgia";
+	font-size: 12px;
+	color: #FFFFFF;
+	width: 240px;
+}
+#content_buttom3 {
+
+	height: 296px;
+	width: 281px;
+}
+.footer {
+	color: #CCCCCC;
+	font-family:"Georgia";
+	font-size:12px;
+	text-align:center;
+	padding-top: 15px;
+}
+.style1{
+	color: #100F12;
+	font-family:"Georgia";
+	font-size:8px;
+	text-align:center;
+	padding-top: 15px;
+	text-decoration: none;
+}
+.style1 a{
+	color: #100F12;
+	font-family:"Georgia";
+	font-size:8px;
+	text-align:center;
+	padding-top: 15px;
+	text-decoration: none;
+}
+.style1 a:hover{
+	font-size: 8px;
+	text-decoration: none;
+	color: #100F12;
+}

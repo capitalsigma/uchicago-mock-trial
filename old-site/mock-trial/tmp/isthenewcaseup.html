@@ -1,0 +1,75 @@
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Is the new case up yet?</title>
+  <script type="text/javascript" src="./../mock_trial_files/src/jquery-2.0.2.js"></script>
+  <script type="text/javascript" src="./../mock_trial_files/src/jQuery-Plugins/cross-domain-ajax/jquery.xdomainajax.js"></script>
+  <style>
+    .big {
+       font-size: 80px;
+    }
+    
+    .lessbig{
+       font-size: 50px;
+    }
+    .pseudo-link{
+        text-decoration: underline;
+        color: blue;
+  </style>
+</head>
+
+<body id="home">
+  <center class="big"> <p> Is the new case up yet? </p> </center>
+  <center> <h1 class="big"> <div id="main", class="center">Loading...</div></h1></center> 
+  <center> <a id="why" class="lessbig"> <div class="pseudo-link"> How do I know? </div> </a> </center>
+
+</body>
+
+<script type="text/javascript">
+function first_announcement(pg)
+{
+   var root = $.parseHTML(pg);
+   var content = root[root.length - 2];
+   var main_column = content.getElementsByClassName("column")[0];
+   var first_item = main_column.getElementsByClassName("listItem")[0];
+   var title = first_item.getElementsByClassName("listItemTitle")[0];
+   return title;
+}
+
+$.ajax({
+    url: 'http://www.collegemocktrial.org/resources/case-materials/case-updates/',
+    type: 'GET',
+    dataType: 'html',
+    success: function(res) {
+    title_str = first_announcement(res.responseText).innerText;
+    var old_title = "2013-2014 Case Release Timing";
+    is_new = title_str === old_title;
+    $("#main").text( is_new? "NO" : "YES");
+  }
+});
+
+function explanation(str) {
+  if(str){
+    var start_str = "The title of the most recent announcement is \'";
+    if(is_new){
+      var end_str = ".\' That doesn't sound like a new case to me.";
+    } else {
+      var end_str = ".\' That sounds like a new case to me.";
+    }
+    return start_str.concat(str).concat(end_str);
+  } else {
+    return "I don't know yet. Refresh the page. Chill.";
+  }
+}
+
+$('a').click(function(){
+    $('#why').html(explanation(title_str));
+  });
+
+
+
+</script>
+</html>
+
+
+

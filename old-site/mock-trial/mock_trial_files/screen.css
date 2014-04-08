@@ -1,0 +1,172 @@
+* { margin: 0; padding: 0; outline: none; }
+
+body { font: 16px/22px Arial, sans-serif; color: #D6D6CE; }
+
+h1, h2, h3, h4, h5, p, pre, ul, ol, dl, address, caption, table, form, hr { margin-bottom: 22px; }
+
+ul ul, ul ol, ul dl, ol ol, ol ul, ol dl, dl dl, dl ul, dl ol { margin-bottom: 0; }
+
+ul, ol, dd { margin-left: 1.615em; }
+
+dd ul, dd ol { margin-left: 0; }
+
+blockquote { padding: 0 1.615em; }
+
+h1 { font-size: 42px; line-height: 44px;}
+
+h2 { font-size: 32px; line-height: 32px;}
+
+h3 { font-size: 26px; line-height: 32px;}
+
+h4 { font-size: 20px; line-height: 22px;}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+nav ul { list-style: none; }
+
+a img { border: none; }
+
+body { background: #D6D6CE; cursor: default; }
+
+h1, h3, h4, h5, h6 { font-family: Garamond, Arial, sans-serif; }
+
+h1, h3, h4, h5, h6 { color: white; }
+
+h1 { font-size: 50px; line-height: 55px; font-weight: 500; font-family:'BebasNeue', Garamond}
+
+h2 { font-size: 44px; line-height: 44px; font-family: 'BebasNeue', Garamond, Serif;font-weight: 900; color:#000000; text-rendering:optimizelegibility; text-align: right;}
+
+h3 { font-size: 40px; line-height: 32px; font-weight: 900; text-rendering: optimizelegibility; padding-top:10px}
+
+h4 { font-size: 32px; line-height: 32px; font-weight: 900; 	text-rendering: optimizelegibility; padding-top:10px}
+
+h5 { font-size: 28px; line-height: 30px; font-family: 'BebasNeue', Garamond; font-weight: 900; text-rendering:optimizelegibility; color:#000000;}
+
+h6 { font-size: 20px; line-height: 20px; font-family: 'BebasNeue', Arial; font-weight: 900; text-rendering:optimizelegibility; color:#000000;}
+
+
+sup { font-size: 11px; line-height: 11px; }
+
+a { color: #606060; text-decoration: none; }
+a:hover { color: black; }
+
+.summary { color: #00c2dc; }
+
+.more { display: block; margin-top: 22px; }
+
+.wrapper { width: 1000px; margin-left: auto; margin-right: auto; *zoom: 1; position: relative; }
+.wrapper:after { content: "\0020"; display: block; height: 0; clear: both; overflow: hidden; visibility: hidden; }
+
+#main-header { padding-top: 32px; background: #D6D6CE; position: relative; z-index: 40000; }
+#main-header .wrapper { height: 111px; overflow: hidden; }
+
+#logo { display: inline; float: left; margin-top: -5px; }
+
+#linkbar { display: inline; float: right; margin-top:47px; margin-right: 0px; }
+#linkbar ul { display: inline; margin: 0; }
+#linkbar ul li { display: inline; }
+#linkbar ul a { font: bold 13px/22px Arial, sans-serif; display: block; float: left; padding: 22px; color: #606060}
+#linkbar ul a:hover { background-color: #7d6a55; border-bottom: 3px solid black; padding-bottom: 17px; color: #000000}
+#linkbar ul .current a { color: black; border-bottom: 5px solid #00c2dc; padding-bottom: 18px;}
+
+#content { overflow: hidden; *zoom: 1; background: #d6d6ce; }
+.boardperson{-moz-border-radius: 15px; border-radius: 15px; margin-left:100px; margin-bottom: 10px;}
+.facebook{margin-left: auto; margin-right: auto; vertical-align:middle; padding-top:40px; padding-bottom:33px}
+.plusone{position:relative; top:20px; right:20px}
+
+
+#page-footer { border-top: 1px solid #d7d7d7; background: #d6d6ce; position: relative; z-index: 40001; color: #000000; font-size: 13px; line-height: 18px; padding-bottom: 50px; }
+#page-footer .wrapper { padding: 0 10px; background: url('../images/dotline.png?1294241747') center top repeat-y; }
+#page-footer .block { display: inline; float: left; margin-left: 20px; width: 256px; position: relative; margin-left: -10px; padding-top: 0px; padding-left: 10px; padding-right: 50px; }
+#page-footer .block2 { display: inline; float: left; margin-left: 20px; width: 256px; position: relative; margin-left: -10px; padding-top: 0px; padding-left: 10px; padding-right: 0px; }
+#page-footer .block ul.a:hover{font-color:#000}
+#page-footer .block ul{list-style: none; border:0; margin:0}
+#page-footer .rightblock{display: inline; float: left; margin-left: 20px; width: 562px; position: relative; margin-left: 10px; padding-left: 20px; padding-right: 20px; }
+#page-footer .rightblock .awardsplace{font-size:20px; font-family:'BebasNeue', Arial, sans-serif; font-weight:bold; padding-bottom:12px}
+#page-footer .rightblock .awardstype{font-size: 12px; font-family: Arial, sans-serif; padding-bottom:4px}
+#page-footer .rightblock .last{padding-bottom: 22px;}
+#page-footer .rightblock .first{padding-bottom: 10px;}
+#page-footer .rightblock ul.a:hover{font-color:#000}
+#page-footer .rightblock ul{list-style: none; border:0; margin:0}
+#page-footer .cntr { margin-left: 10px; margin-right: 20px; }
+#page-footer .hidden { display: none; }
+#page-footer .phone { white-space: nowrap; }
+#page-footer .more { padding-left: 18px; background: url('../images/point-arrow.png?1294241747') left -74px no-repeat; }
+#page-footer input { width: auto; }
+#page-footer #newsletter-block p { margin-bottom: 11px; }
+#page-footer #newsletter-block #id_email { width: 100px; border-bottom-color: #a8a8a8; font: normal 13px/22px Arial, sans-serif; }
+#page-footer #newsletter-block ul { display: inline; margin: 0; }
+#page-footer #newsletter-block li { display: -moz-inline-box; -moz-box-orient: vertical; display: inline-block; vertical-align: middle; *vertical-align: auto; }
+#page-footer #newsletter-block li { *display: inline; }
+
+.list-wrapper {width: 9000px; position: relative; margin: 0; list-style: none; overflow: hidden; *zoom: 1;}
+.list-wrapper .list-item { float: left; display: inline !important;}
+
+#home #content, #home #quotes, #home #projects { height: 462px; overflow: hidden; }
+#home #content { position: relative; }
+#home #main-nav { display: none; }
+
+#quotes-wrapper { background: #800000; padding: 0px;}
+
+#quotes { position: relative; margin: 0 0px; padding: 0 0; margin-top: -419px; }
+#quotes .quote { width: 958px; margin-right: 316px; }
+#quotes .quote h1 { font: 900 65px/70px Garamond, sans-serif; margin-top: 60px; }
+#quotes .quote h2 { font: bold 22px/22px Arial, sans-serif; color: white; }
+#quotes .quote a { font: bold 14px/22px Arial, sans-serif; color: black; padding-right: 18px; background: url('../images/point-arrow.png?1294241747') right -32px no-repeat; }
+#quotes .quote a:hover { color: white; background-position: right 8px; }
+
+#quotes #news {width:259px; height:600px}
+#quotes #picture {width: 481px; float:right}
+#quotes .block { display: inline; float: left; margin-left: 0px; width: 256px; position: relative; margin-left: 0px; padding-top:0px; padding-left: 0px; padding-right: 0px; }
+#quotes .cntr { margin-left: 0px; margin-right: 0px; }
+
+#projects { margin-top: 0; margin-bottom: 0; position: relative; }
+#projects .title { font: bold 14px/22px Arial, sans-serif; margin: 44px 0 22px 10px; }
+
+.stripe-nav {repeat-y; position: absolute; bottom: 0; left: 0; margin: 0; z-index: 100; }
+.stripe-nav ul { overflow: hidden; *zoom: 1; margin: 0; }
+.stripe-nav li { display: inline; margin: 7px; padding-left: 0;}
+.stripe-nav a { display: inline; float: left; margin-left: 0px; width: 136px; height: 44px; margin-left: 0px; overflow: visible; text-align: center;  background-color: #d6d6ce;}
+.stripe-nav a.hover { background-color: #000000; }
+.stripe-nav .inactive a { cursor: default; background-color: #800000 !important; }
+
+
+#quotes-nav a:hover { background: #7d6a55;}
+#quotes-nav .previous-button a { background-position: 10px -608px; }
+#quotes-nav .previous-button a:hover { background-position: 10px -608px; }
+#quotes-nav .next-button a { background-position: 286px -519px; }
+#quotes-nav .next-button a:hover { background-position: 286px -519px;}
+#quotes-nav .previous-button.inactive a { background-position: 10px -788px; }
+#quotes-nav .next-button.inactive a { background-position: 286px -699px; } 
+
+#about-us #content article h1 { margin-top: 88px; margin-bottom: 66px; }
+#about-us #content article h2 { margin-top: 66px; margin-bottom: 44px; }
+#about-us #content article p, #about-us #content article ol { margin-left: 158px !important; }
+#about-us #our-process { lisst-style: none; background-color: #f5f5f5; border: 1px dotted #e0e0e0; border-left: none; border-right: none; margin: 38px -20px; font-size: 15px; color: black; overflow: hidden; *zoom: 1; white-space: nowrap; text-align: center; }
+#about-us #our-process li { display: inline; padding: 0 17px; color: #404040; font-style: italic; line-height: 132px; }
+#about-us #our-process span { color: #00c2dc; font: 900 28px/22px Arial, sans-serif; }
+#about-us .footnote { font: normal 13px/20px Arial, sans-serif; color: #a8a8a8; border-top: 1px dotted #a8a8a8; padding-top: 11px; margin: 66px 0 88px 0; margin-right: 474px; }
+#about-us .footnote li { margin-right: -316px; }
+
+#contact hgroup { margin-top: 88px; margin-bottom: 66px; }
+#contact hgroup h1 { margin-bottom: 0; }
+#contact hgroup h2 { margin-top: 22px; font: normal 25px/33px Arial, sans-serif; }
+#contact #contact-details { display: inline; float: left; margin-left: 20px; width: 296px; margin-left: 0; }
+#contact #contact-details address { font-style: normal; }
+#contact #contact-details dl { display: inline; }
+#contact #contact-details dt { display: inline; float: left; margin-left: 20px; width: 59px; margin-left: 0; color: black; }
+#contact #contact-details dd { display: inline; float: left; margin-left: 20px; width: 197px; padding-left: 20px; }
+#contact #contact-details .address { margin-top: 22px; }
+#contact #contact-details a { color: #a8a8a8; text-decoration: none; }
+#contact #contact-details a:hover { color: black; text-decoration: underline; }
+#contact #map { display: inline; float: left; margin-left: 20px; width: 612px; }
+#contact #contact-form { height: 197px; overflow: hidden; display: inline; float: left; margin-left: 20px; width: 928px; margin-left: 0; border-top: 1px dotted #a8a8a8; margin-top: 44px; padding: 44px 0; }
+#contact #message { display: inline; float: left; margin-left: 20px; width: 454px; margin-left: 0; margin-top: -6px; }
+#contact #message .field { margin: 0; }
+#contact #details { display: inline; float: left; margin-left: 20px; width: 345px; }
+#contact #submit input { display: inline; float: left; margin-left: 20px; width: 89px; background: #333333; font-size: 13px; color: #e0e0e0; cursor: pointer; padding-top: 93px; padding-bottom: 26px; *height: 121px; }
+#contact #submit input:hover { background: black; }
+#contact .notes { display: inline; float: left; margin-left: 20px; width: 454px; margin-left: 0; font: normal 13px/20px Arial, sans-serif; color: #a8a8a8; clear: left; }
+#contact #contact-form .form-errors { display: inline; float: left; margin-left: 20px; width: 454px; font: bold 13px/22px Arial, sans-serif; color: #fd3d3d; }
+#contact #contact-form .form-errors ul { list-style: none; margin: 0; }
+#contact #contact-form .message { font: normal 18px/22px Arial, sans-serif; color: #00c2dc; }

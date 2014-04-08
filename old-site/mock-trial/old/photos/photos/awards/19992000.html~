@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<table width=640 border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width=100> 
+      <div align="center"><img src="../images/graphics/upperleft.gif" width="100" height="57"></div>
+    </td>
+    <td width=540> 
+      <div align="center"> <map NAME="titlemap"> <area coords="250,38,340,53" href="../teamnews.html" shape="RECT"> 
+          <area coords="348,38,435,53" href="../pressclips.html" shape="RECT"> <area coords="447,38,535,53" href="../contactus.html" shape="RECT"> 
+        </map> <img src="../images/graphics/title.gif" width="540" height="57" usemap=#titlemap border="0"></div>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td background=../images/graphics/line.gif> <map NAME="menumap"> <area coords="5,16,82,31" href="../history.html" shape="RECT"> 
+        <area coords="4,45,85,60" href="../members.html" shape="RECT"> <area coords="10,70,80,90" href="../awards.html" shape="RECT"> 
+        <area coords="3,98,90,115" href="../pictures.html" shape="RECT"> 
+<area coords="3,125,90,145" href="../archives.html" shape="RECT"> 
+        <area coords="1,152,90,189" href="http://www.uchicago.edu/forum/list.php?f=74" shape="RECT" target="new window"> </map> 
+<img src="../images/graphics/menu.gif" width="90" height="200" align="left" vspace="0" hspace="0" usemap=#menumap border="0"> 
+    <td> 
+      <div align="center"> 
+        <p>&nbsp;</p>
+        <table border="0" width="450">
+          <tr>
+            <td> 
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><b>1999-2000 
+                Season</b><br>
+                </font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Team Awards</b></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Team Honorable 
+                Mention, National Tournament</font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Individual 
+                Awards</b></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Ashley Miller, 
+                Great Lakes Regional Outstanding Witness</font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Kevin Kimmerling, 
+                Great Lakes Regional Outstanding Attorney<br>
+                </font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Daniel Shapiro, 
+                National Tournament All-American Attorney</font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Daniel Shapiro, 
+                National Tournament All-American Honors Trial Participant</font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"> </font></p>
+              <p>&nbsp;</p>
+</td>
+          </tr>
+        </table>
+        <p align="left">&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top"><img src="../images/graphics/bottomleft.gif" width="100" height="57" align="top"></td>
+    <td><img src="../images/graphics/bottom.gif" width="540"></td>
+  </tr>
+</table>
+</body>
+</html>

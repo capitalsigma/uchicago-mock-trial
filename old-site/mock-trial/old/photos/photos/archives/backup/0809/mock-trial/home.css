@@ -1,0 +1,37 @@
+h1 {
+	text-align: center;
+	font-size: 16pt;
+	font-family: times new roman;
+	}
+	
+a:link	{
+	text-decoration: none;
+	color: #D0122E;
+	}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #D0122E;
+}
+
+a:active {
+	text-decoration: blink;
+}
+
+html {
+	font-family: Georgia,Verdana;
+}
+
+div.navbar { border-style: solid; height: 3px; color:black; }
+
+p { font-size: smaller; }
+
+img {
+	border:0;
+}
+
+

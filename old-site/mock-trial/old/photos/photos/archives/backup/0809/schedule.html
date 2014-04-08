@@ -1,0 +1,96 @@
+<html><html>
+<head>
+<title>University of Chicago Mock Trial</title>
+<link href="home.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript">
+if (document.images)   {
+     image1on = new Image();
+     image1on.src="images/home2.jpg";
+
+     image1off = new Image();
+     image1off.src = "images/home1.jpg";
+
+     image2on = new Image();
+     image2on.src="images/photos2.jpg";
+
+     image2off = new Image();
+     image2off.src = "images/photos1.jpg";
+
+     image3on = new Image();
+     image3on.src="images/members2.jpg";
+
+     image3off = new Image();
+     image3off.src = "images/members1.jpg";
+
+     image4on = new Image();
+     image4on.src="images/history2.jpg";
+
+     image4off = new Image();
+     image4off.src = "images/history1.jpg";
+
+     image5on = new Image();
+     image5on.src="images/schedule2.jpg";
+
+     image5off = new Image();
+     image5off.src = "images/schedule1.jpg";
+
+     image6on = new Image();
+     image6on.src="images/awards2.jpg";
+
+     image6off = new Image();
+     image6off.src = "images/awards1.jpg";
+
+     image7on = new Image();
+     image7on.src="images/teams2.jpg";
+
+     image7off = new Image();
+     image7off.src = "images/teams1.jpg";
+
+     image8on = new Image();
+     image8on.src="images/contact2.jpg";
+
+     image8off = new Image();
+     image8off.src = "images/contact1.jpg";
+
+}
+
+function turnOn(imageName)   {
+     if (document.images)   {
+     document[imageName].src = eval(imageName + "on.src");
+     }
+}
+
+function turnOff(imageName)   {
+     if (document.images)   {
+     document[imageName].src = eval(imageName + "off.src");
+     }
+}
+</script>
+</head>
+<body bgcolor="#E1DFB9">
+<table cellspacing="0" cellpadding="0" align="center">
+<tr><td width="100%" align="center"><img src="images/logo.jpg"></td></tr>
+<tr><td><a href="index.html" onMouseOver="turnOn('image1');" onMouseOut="turnOff('image1');"><img src="images/home1.jpg" border="0" name="image1"></a><a href="pics.html" onMouseOver="turnOn('image2');" onMouseOut="turnOff('image2');"><img src="images/photos1.jpg" border="0" name="image2"></a><a href="members.html" onMouseOver="turnOn('image3');" onMouseOut="turnOff('image3');"><img src="images/members1.jpg" border="0" name="image3"></a><a href="history.html" onMouseOver="turnOn('image4');" onMouseOut="turnOff('image4');"><img src="images/history1.jpg" border="0" name="image4"></a><a href="schedule.html" onMouseOver="turnOn('image5');" onMouseOut="turnOff('image5');"><img src="images/schedule1.jpg" border="0" name="image5"></a><a href="awards.html" onMouseOver="turnOn('image6');" onMouseOut="turnOff('image6');"><img src="images/awards1.jpg" border="0" name="image6"></a><a href="teams.html" onMouseOver="turnOn('image7');" onMouseOut="turnOff('image7');"><img src="images/teams1.jpg" border="0" name="image7"></a><a href="contact.html" onMouseOver="turnOn('image8');" onMouseOut="turnOff('image8');"><img src="images/contact1.jpg" border="0" name="image8"></a></td></tr>
+</tr></table><table cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td width="94"><img src="images/logoside.jpg" height="820" width="94"></td>
+
+<td width="609" valign="top" align="center">
+<table cellpadding="8" valign="top" align="center"><tr valign="top" align="center"><td valign="top" align="center">
+<h1>'08-'09 UChicago Mock Trial Schedule</h1>
+<div class="navbar"></div>
+<p align="center"><b>Macalaster</b><br>
+November 7th-9th<br><br>
+
+<b>Case Western</b><br>
+November 14th-16th
+<br><br></p><br>
+<p align="center">More coming soon, wait for updates...</p>
+
+</td></tr></table>
+</td>
+<td width="96"><img src="images/logoside2.jpg" height="820" width="96"></td></tr>
+</td>
+<table align="center" cellpadding="0" cellspacing="0"><TR><TD><img src="images/logobottom.jpg" width="799" height="70"></TD></TR></table>
+</body>
+</html>

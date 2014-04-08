@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Mock</title>
+   	<link>.</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="2009 - 2010/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2008 - 2009/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2005 - 2006/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Old/album.rss" />   	
+    	
+        
+    </channel>
+</rss>
