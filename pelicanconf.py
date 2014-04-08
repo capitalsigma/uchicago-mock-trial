@@ -45,11 +45,11 @@ MENUITEMS = [
     ('About', '/pages/about'),
     ('Officers', '/pages/officers'),
     ('Awards', '/pages/awards'),
-    ('Join!', '/pages/join')
+    ('Join', '/pages/join')
 ]
 
 # Article settings
 ARTICLE_DIR = 'articles'
 
 # Static Pages
-STATIC_PATHS = ['static']
+STATIC_PATHS = ['images']
