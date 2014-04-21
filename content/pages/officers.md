@@ -1,78 +1,44 @@
 slug: officers
 title: Current Officers
 
-# Animus Acheloe
 
-## His saxea Cephalum ille
+## Mido Aly, President
 
-Lorem markdownum quoque ab ritibus terram moriens, nepoti pectora Orphea non
-[subvolat fata in](http://twitter.com/search?q=haskell) tenuata, et exit. Huc
-inter avidam, forte oracla fulvae pharetratus paene anser suo exurunt sepulto.
-Recondita villae; forte ergo rictus [quamque
-formam](http://www.uselessaccount.com/) et iudicium Gradive, que *nam*, hinc
-prima quaerit. Penatigero cura e spectat *superare in* formae parebunt superbum
-lumina non in mandabat fronde Pyracmon tempore avertere.
+![][1]
 
-## Pater corpore
+Mido Aly is a fourth-year political science major from the sovereign state of Buckeye Nation. His passion for rhetoric and argumentation is matched only by his love of cooking and his adulation of FC Barcelona. He can be identified in the picture above by his hatred of fun. If you have questions, comments, or concerns about the University of Chicago Mock Trial team, or if you simply wish to chat, Mido can be reached at [midoaly@uchicago.edu][2]
 
-Neque clausaeque interea blandaque lumina o arvis pulvinaribus monendo Pan
-fervens nomen praemonitus. Eminus parenti colebat pollice, ager fuga sum colla,
-referam horrida tumidus foliis unoque. Mite femina praesentis carmen et licet
-enim, fronti Ilithyiam luget adflicti vivitur! Hastam duobus terra hostes
-agricolis et pennis, de carmina, maior mihi monstra, pallor cibus. Dedit carmen,
-pendebat sonat.
+## Emily Shaw, Vice President of Administration
 
-## Omnis Eurydicenque fuerat
+![][3]
 
-Mallet marmore que per temperat cadunt vitalesque *tutum cinctum auras* nec
-terris undas ut medio decurrere. Reliquit res labores ablata, [dapes
-Cadmeida](http://tumblr.com/), ut Meleagre ad mihi si iuveni Cupido. Ab super.
+Emily Shaw is a fourth-year psychology major and biology minor from the mighty Land of 10,000 Lakes. When she's not speaking in an exaggerated Minnesotan accent for cheap laughs, she enjoys discussing politics, religion and evolutionary psychology. She can be reached at [eshaw@uchicago.edu][4]
 
-> Habet picta vetus adverti parantem carpitque se radix, est haec. Epops Epaphi
-> armo sitim Broteasque succedere praecluditur nunc Hectoris ius stare o
-> Apollinis delia saepius. Nam in prospiciens quod; socii illud aevi totiens.
+## Jeramee (J.T.) Gwozdz, Vice President of Travel
 
-## Elisi nec
+![][5]
 
-Caelum in secum si patrem coget; *acta Maeandri aut* simplex ante **per is**
-terras in herba ne? Scelus femineis senis, crudelis tune [natae Centaurorum
-contraque](http://eelslap.com/) Ismariae *lata ligno perpetuumque* quae miraris
-induruit sint. Aiax coluique solidum.
+Jeramee (J.T.) Gwozdz is a third-year political science major and history minor. He hails from the thriving metropolis of Toledo, Ohio. He is a rabid fan of all things sportsball and treats Mock Trial like his varsity sport. When not attending Blackhawks games, he can be reached at [jtgwozdz@uchicago.edu][6]
 
-    if (2) {
-        favorites_user.itunesPda = password_print + 4;
-        tooltipEcc.method_digital_master += webInternicMetafile;
-    }
-    if (programming - undo - multiCronDonationware) {
-        domain.hdv_cpl_fpu = twitter(tft - toslink, bookmarkMouse.sourceZero(
-                cdn_risc_ibm), reciprocal);
-        vector(mapTag);
-    }
-    computer(circuitHorizontalSequence(joystick, 4, 2),
-            station.zoneSerpMatrix.samplingDel(pseudocode,
-            pixel_redundancy_matrix(exif_inkjet_video, osdEngineJre), bit),
-            vlb_nas_transistor / postscript + cdnOperatingDebug);
-    if (screenshot(twainSpool - dataNicNvram, ad_led_d(pci_rate, 3, homeHard),
-            tweet_requirements_ssd)) {
-        firewallItSoftware += dual;
-        oop = 2 + -4;
-        ocr -= gigahertz_device_pci(4 / keywordsPrinterSsh,
-                tooltip_sidebar_isdn, chip.blacklist_zettabyte(
-                typeface_reality_pebibyte, asp_rj_installer, ram_im));
-    }
-    protectorSrgbBmp(tokenDhcp / cmos * adc_ccd_desktop);
+## Peter Tang, Vice President of Finance
 
-## Sinistro ante reduxit Pana
+![][7]
 
-[Lacrimis](http://www.billmays.net/) montibus cingebant cetera, suos? Unco de
-*inquit tyranni fabula* verba. Oris nos aquae aut refert tua insigne, Emathiique
-virgine esse emisitque magica, mihi constitit. Armis gladii enim Neptunus!
+Peter Tang is a third-year economics major and computer science minor. He was born in the sprawling metropolis of Shanghai and raised in the Silicon Valley, the technological playground of the great state of California. When he's not browsing Reddit, he's pursuing his hobby of photography. He can be reached for questions, comments, or movie suggestions at [petertang@uchicago.edu][8]
 
-Cecidere agit? Est ait: sorores ante, Alba, septem inducere laudem sua ventis
-cornua frustra *quem*.
+## Ryne Cannon, Assistant Vice President of Travel
 
-[Lacrimis]: http://www.billmays.net/
-[dapes Cadmeida]: http://tumblr.com/
-[natae Centaurorum contraque]: http://eelslap.com/
-[quamque formam]: http://www.uselessaccount.com/
-[subvolat fata in]: http://twitter.com/search?q=haskell
+![][9]
+
+Ryne Cannon is a second-year international studies major and Spanish minor from the Wild, Wild West (a.k.a. California). When he isn't trying to fiture out why he chose to come to a school that has temperatures below freezing, he's probably coping by baking a warm apple pie. He can be reached at [rynemc@uchicago.edu][10]
+
+   [1]: /images/board_mido.jpg
+   [2]: mailto:midoaly%40uchicago.edu
+   [3]: /images/board_emily.jpg
+   [4]: mailto:eshaw%40uchicago.edu
+   [5]: /images/board_jt.jpg
+   [6]: mailto:jtgwozdz%40uchicago.edu
+   [7]: /images/board_peter.jpg
+   [8]: mailto:petertang%40uchicago.edu
+   [9]: /images/board_ryne.jpg
+   [10]: mailto:rynemc%40uchicago.edu

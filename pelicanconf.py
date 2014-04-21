@@ -12,7 +12,8 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 
 # Themes
-# _THEME_PATH = "/usr/local/lib/python3.3/dist-packages/pelican/themes"
+_THEME_PATH = "/usr/local/lib/python3.3/dist-packages/pelican/themes"
+# THEME = _THEME_PATH
 THEME = "pelican-iliork"
 
 # CSS Override of default
