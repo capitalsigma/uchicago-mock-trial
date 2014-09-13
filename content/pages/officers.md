@@ -1,5 +1,6 @@
 slug: officers
 title: Current Officers
+template: officers
 
 
 ## Mido Aly, President
